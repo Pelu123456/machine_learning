@@ -2,10 +2,10 @@
 KNN NB SYM-Perceptron Decistion Tree Python
 
 Run KNN 
-train_data.trn test_data.tst <k number>
+python KNN.py train_data.trn test_data.tst <k number>
 
 NB
-train_data.trn test_data.tst
+python NB.py train_data.trn test_data.tst
 
 Perceptron 
 Not done yet !
